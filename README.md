@@ -46,6 +46,8 @@
 
 ## Introduction
 
+[![GuardRails badge](https://badges.production.guardrails.io/moul/engine.svg)](https://www.guardrails.io)
+
 source{d} Engine exposes powerful Universal AST's to analyze your code and a SQL engine to analyze your git history:
 
 - **Code Retrieval**: retrieve and store git repositories as a dataset.
